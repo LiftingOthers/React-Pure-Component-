@@ -1,3 +1,8 @@
+#React Pure Components in Tamil | How to avoid Re-Render in React Class Components ?
+We are able to produce a element by extending the PureComponent category. A Pure Component implements the shouldComponentUpdate lifecycle technique by playing a shallow comparison on the props and states.<br />
+Pure component use it the component is not re-rendered. Performance boost and optimization.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
